@@ -16,7 +16,8 @@ h1, h2, h3 {
   background-color: white;
   width: 800px;
   margin-left: auto;
-  margin-right: auto;
+color: blue;
+font-weight: bold;
 }
 
 #header {
@@ -24,6 +25,7 @@ h1, h2, h3 {
   color= white;
   text-align: center;
   padding: 10px;
+  font-weight: lighter;
 }
 
 #content {
